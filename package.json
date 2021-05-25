@@ -1,0 +1,18 @@
+{
+  "name": "project_with_express_and_mongodb",
+  "version": "1.0.0",
+  "description": "Project with express and mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "monogdb"
+  ],
+  "author": "atul",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.12.9"
+  }
+}

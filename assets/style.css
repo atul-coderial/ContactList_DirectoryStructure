@@ -1,0 +1,49 @@
+
+/*
+*
+* 404 Error Page
+*/
+.topM{
+    margin-top: 280px;
+}
+
+/*
+    Home Page
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.conatiner{
+    text-align: center;
+}
+
+fieldset {
+    background-color: #eeeeee;
+  }
+  
+  legend {
+    background-color: gray;
+    color: white;
+    padding: 5px 10px;
+  }
+  
+  input {
+    margin: 5px;
+  }
+
+  #sp_btn{
+      margin: 0 0 50px 180px;
+  }
+
+  
+  table tr, th, td{
+      border: 2px solid black;
+      width: 400px;
+      height: 100px;
+      justify-content: center;
+      text-align: center;
+      background-color: #eeeeee;
+  }
